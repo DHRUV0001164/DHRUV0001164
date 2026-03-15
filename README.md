@@ -1,28 +1,21 @@
-Hi, I'm Dhruv Chauhan 👋
+# 💫 About Me:
+Hi, I'm Dhruv Chauhan 👋<br><br>I am a B.Tech Computer Science Engineering student at Doon University, Dehradun (Batch 2024–2028). I focus on building strong fundamentals in programming and applying my skills through real-world projects, particularly in Artificial Intelligence and Computer Vision.<br><br>I have hands-on internship experience at DRDO (IRDE – Optical Lab), where I worked on computer vision-based systems including real-time human detection and laser-assisted heart targeting prototypes. This experience helped me understand how software, hardware, and algorithms integrate to build practical and impactful systems.<br><br>🎓 Academic Details<br>Course: B.Tech Computer Science & Engineering<br>University: Doon University, Dehradun (2024–2028)<br><br>🔧 Technical Skills<br><br>Programming Languages: Python, Java, C++<br>AI & Machine Learning: Computer Vision, Deep Learning (CNN)<br>Libraries & Tools: OpenCV, YOLOv8, Streamlit, Git, GitHub<br>App & Backend Development: Flutter (Learning), Spring Boot (Learning)<br>Hardware & Databases: Arduino, SQLite, MySQL<br><br>📌 Projects<br><br>Human Detection & Laser-Based Heart Targeting System<br>Developed a computer vision system capable of detecting humans in real-time and identifying the chest region for laser-assisted targeting in a prototype environment.<br><br>Digital Attendance System using Face Recognition<br>Built an automated attendance system using face recognition that records and manages student attendance efficiently.<br><br>📫 Contact<br><br>Email: [chauhandhruv230@gmail.com](mailto:chauhandhruv230@gmail.com)<br>LinkedIn: https://linkedin.com/in/dhruv-chauhan-a19b65325<br>
 
-I am a B.Tech Computer Science Engineering student at Doon University, Dehradun (Batch 2024–2028).
-I focus on building strong fundamentals in programming and applying my skills through real-world projects,
-especially in artificial intelligence and computer vision.
 
-I have hands-on internship experience at DRDO (IRDE – Optical Lab), where I worked on
-computer vision-based systems including real-time human detection and laser-assisted
-heart targeting prototypes. This experience helped me understand how software,		
-hardware, and algorithms come together in practical applications.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhruv_chauhan___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruv-chauhan-a19b65325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chauhandhruv230@gmail.com) 
 
-🎓 Academic Details:
-- Course: B.Tech Computer Science & Engineering
-- University: Doon University, Dehradun
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DHRUV0001164&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DHRUV0001164&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV0001164&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🔧 Technical Skills:
-- Programming Languages: Python, Java, C++
-- AI & ML: Computer Vision, Deep Learning (CNN)
-- Libraries & Tools: OpenCV, YOLOv8, Streamlit, Git, GitHub
-- Hardware & Databases: Arduino, SQLite, MySQL
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-📌 Projects:
-- Human Detection & Laser-Based Heart Targeting System
-- Digital Attendance System using Face Recognition
+---
+[![](https://visitcount.itsvg.in/api?id=DHRUV0001164&icon=10&color=0)](https://visitcount.itsvg.in)
 
-📫 Contact:
-Email: chauhandhruv230@gmail.com  
-LinkedIn: https://linkedin.com/in/dhruv-chauhan-a19b65325
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
