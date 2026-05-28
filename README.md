@@ -1,4 +1,4 @@
-<h1 align="center">🚀 WORKING AS AN INTERN AT KURICARES</h1>
+
 
 <h1 align="center">Hi 👋, I'm Dhruv Chauhan</h1>
 
