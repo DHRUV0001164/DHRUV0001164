@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv Chauhan</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DHRUV0001164&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
-</p>
 
 <br><br>I am Dhruv Chauhan, currently focused on mastering Data Structures and Algorithms using Java while building a strong foundation in backend development with Spring Boot. My core interests lie in problem-solving, system design, and developing scalable applications that solve real-world challenges.<br><br>During my internship at the Defence Research and Development Organisation (DRDO), I worked on an AI-based Heart Target Detection System, contributing to the development of a model capable of identifying critical target regions with high precision. This involved working with intelligent systems and understanding the importance of accuracy, performance, and reliability in real-world applications.<br><br>Alongside this, I am actively strengthening my skills in:<br><br>Full-stack development<br>Backend development using Java & Spring Boot<br>Data Structures and Algorithms (DSA)<br>Scalable system design<br>AI-powered applications and chatbots<br><br>Currently, I am building a legal-tech platform aimed at making legal services more accessible and efficient through technology-driven solutions.<br><br>I believe in continuous learning, disciplined practice, and building projects that create real impact.<br><br>🚀 Current Work<br>Developing a legal consultancy platform with chatbot integration<br>Strengthening backend development using Spring Boot<br>Practicing DSA to improve problem-solving and coding efficiency<br>🎯 Career Objectives<br>To become a highly skilled software engineer with strong backend expertise<br>To master Data Structures, Algorithms, and system design<br>To build scalable and impactful real-world applications<br>📫 Contact & Collaboration<br>Open to collaboration, internships, and meaningful opportunities
 
@@ -32,6 +29,10 @@
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DHRUV0001164&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
+</p>
 
 
 
